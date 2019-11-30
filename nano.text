@@ -1,0 +1,12 @@
+# cat -n /etc/nanorc 
+# ~/.nanorc
+set linenumbers
+set tabsize 4
+set autoindent
+set constantshow
+set softwrap
+set atblanks
+set smooth
+set suspend
+set multibuffer
+set matchbrackets "(<[{)>]}"

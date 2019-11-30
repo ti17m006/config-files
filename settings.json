@@ -1,0 +1,23 @@
+{
+    "editor.wordWrap": "on",
+    "editor.fontSize": 13,
+    "editor.minimap.enabled": false,
+    "editor.autoIndent": true,
+    "python.pythonPath": "python3",
+    "python.linting.enabled": true,
+    "debug.node.autoAttach": "off",
+    "terminal.integrated.cursorStyle": "underline",
+    "workbench.panel.defaultLocation": "right",//"right",
+    // Enable usage data and errors to be sent to a Microsoft online service.
+    "telemetry.enableTelemetry": false,
+    // Number of editors shown in the Open Editors pane.
+    "explorer.openEditors.visible": 0,
+    "window.zoomLevel": 1,
+    "git.autofetch": true,
+    "terminal.integrated.fontSize": 12,
+    "workbench.statusBar.visible": true,
+    "window.menuBarVisibility": "toggle",
+    "workbench.editor.tabCloseButton": "off",
+    "workbench.activityBar.visible": false,
+    "breadcrumbs.enabled": true
+}
