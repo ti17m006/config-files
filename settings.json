@@ -19,5 +19,12 @@
     "window.menuBarVisibility": "toggle",
     "workbench.editor.tabCloseButton": "off",
     "workbench.activityBar.visible": false,
-    "breadcrumbs.enabled": true
+    "breadcrumbs.enabled": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "python.jediEnabled": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.colorTheme": "1337",
+    "workbench.editor.limit.enabled": true,
+    "workbench.editor.limit.value": 1
 }

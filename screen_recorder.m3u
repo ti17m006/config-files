@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0,Converting screen://
+#EXTVLCOPT:screen-fps=10.000000
+#EXTVLCOPT:input-slave=alsa://
+#EXTVLCOPT:live-caching=300
+#EXTVLCOPT:sout=#transcode{vcodec=h264,scale=Auto,acodec=mpga,ab=128,channels=2,samplerate=44100,scodec=none}:std{access=file{no-overwrite},mux=mp4,dst='/home/ti17m006/Videos/ti17m006.mp4'}
+screen://
